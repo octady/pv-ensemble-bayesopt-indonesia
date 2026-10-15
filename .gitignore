@@ -1,0 +1,7 @@
+# Data and trained models are not versioned (size and data-provider terms)
+data/*
+!data/README.md
+*.pkl
+*.csv
+.ipynb_checkpoints/
+__pycache__/

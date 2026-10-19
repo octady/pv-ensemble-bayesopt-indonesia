@@ -1,0 +1,40 @@
+{
+  "title": "Code for: Evaluation of Ensemble Learning and Bayesian Optimization for Photovoltaic Power Prediction Across Seven Indonesian Cities",
+  "upload_type": "software",
+  "version": "1.1.0",
+  "description": "Jupyter notebooks for PVGIS data extraction (seven Indonesian cities, 2019–2023), preprocessing, Random Forest, XGBoost, LightGBM and AdaBoost with Bayesian Optimization, Ridge stacking, five-seed evaluation, leave-one-city-out and time-based tests, ablation, SHAP, error analysis, and validation on measured DKASC Alice Springs data. Version 1.1.0 accompanies the revised manuscript submitted to the Journal of Renewable Energy and Smart Grid Technology (RAST).",
+  "creators": [
+    {
+      "name": "Yanti, Octa Dama",
+      "affiliation": "Faculty of Computer Science, Sriwijaya University, Indonesia"
+    },
+    {
+      "name": "Firdaus, Mgs. Afriyan",
+      "affiliation": "Faculty of Computer Science, Sriwijaya University, Indonesia"
+    },
+    {
+      "name": "Indah, Dwi Rosa",
+      "affiliation": "Faculty of Computer Science, Sriwijaya University, Indonesia"
+    },
+    {
+      "name": "Heroza, Rahmat Izwan",
+      "affiliation": "School of Computer Science and Electronic Engineering, University of Essex, United Kingdom"
+    },
+    {
+      "name": "Putra, Bayu Wijaya",
+      "affiliation": "Faculty of Computer Science, Sriwijaya University, Indonesia"
+    },
+    {
+      "name": "Sanjaya, M. Rudi",
+      "affiliation": "Faculty of Computer Science, Sriwijaya University, Indonesia"
+    }
+  ],
+  "keywords": [
+    "photovoltaic power estimation",
+    "ensemble learning",
+    "Bayesian optimization",
+    "stacking ensemble",
+    "PVGIS",
+    "Indonesia"
+  ]
+}
